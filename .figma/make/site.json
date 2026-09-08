@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a professional, conversion-optimized website showcasing trusted local plumbing services with easy contact options and authentic project insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
